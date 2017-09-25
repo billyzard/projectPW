@@ -9,9 +9,27 @@
 	height:50px;
 	padding:2px 10px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    display: inline-block;
+    margin: 25px 50px 0px 50px;
+
+    
+}
+
 /*menu*/
 .wrap .menu{
-	background:#DEB887;
+	width: 65.5%;
+	margin: 0 auto;
+	text-align: center;
 }
 .wrap .menu ul{
 	padding:0;
